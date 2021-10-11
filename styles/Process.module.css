@@ -1,0 +1,81 @@
+.rootWrapper {
+    margin-top: 150px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.title {
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 32px;
+    text-align: center;
+    letter-spacing: 5px;
+    color: #FE724C;
+    text-transform: uppercase;
+}
+
+.cardWrapper {
+    display: flex;
+    flex-direction: row;
+    margin-top: 103px;
+}
+
+.titleDescription {
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 50px;
+    line-height: 120%;
+    text-align: center;
+    letter-spacing: 0.5px;
+    color: #333333;
+}
+
+.stepCard {
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 30px;
+    line-height: 150%;
+    text-align: center;
+    letter-spacing: 0.5px;
+    color: #FE724C;
+}
+
+.cardTitle{
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 30px;
+    line-height: 150%;
+    letter-spacing: 0.5px;
+    color: #333333;
+}
+
+.cardDescription {
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 180%;
+    letter-spacing: 0.5px;
+    color: rgba(51, 51, 51, 0.7);
+    width: 408px;
+    margin-top: 20px;
+    margin-left: 40px;
+}
+
+.stepsWrapper {
+    margin-right: 100px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.imageWrapper {
+    margin-left: 100px;
+}

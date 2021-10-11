@@ -1,0 +1,133 @@
+.rootWrapper {
+    margin-top: 150px;
+    background: #FFF3EF;
+    padding-top: 100px;
+}
+
+.contentWrapper {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-right: 140px;
+    margin-top: 50px;
+    padding-bottom: 175px;
+}
+
+.titleBlock {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.firstTitle {
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 32px;
+    text-align: center;
+    letter-spacing: 5px;
+    color: #FE724C;
+    text-transform: uppercase;
+}
+
+.secondTitle {
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 50px;
+    line-height: 150%;
+    text-align: center;
+    letter-spacing: 0.5px;
+    color: #333333;
+}
+
+.titleDescriptionBlock {
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 32px;
+    text-align: center;
+    letter-spacing: 0.5px;
+    color: rgba(51, 51, 51, 0.7);
+}
+
+.imgWrapper {
+    width: 565px;
+    height: 565px;
+    margin-left: 140px;
+}
+
+.cardsTitle {
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 23px;
+    line-height: 150%;
+    letter-spacing: 0.5px;
+    color: #333333;
+}
+
+.rightTitle {
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 36px;
+    line-height: 150%;
+    letter-spacing: 0.5px;
+    color: #333333;
+
+}
+
+.rightDescription {
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 32px;
+    text-align: right;
+    letter-spacing: 0.5px;
+    color: rgba(51, 51, 51, 0.7);
+    margin-top: 20px;
+    margin-bottom: 45px;
+}
+
+.cardsWrapper {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    align-items: flex-end;
+}
+
+.rootRightWrapper {
+    display: flex;
+    flex-direction: column;
+    margin-left: 100px;
+}
+
+.rightTitleWrapper {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    align-items: flex-end;
+}
+
+.cardsText {
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 32px;
+    letter-spacing: 0.5px;
+    color: rgba(51, 51, 51, 0.7);
+}
+
+.cardsWrapperInfo {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    align-items: flex-end;
+    margin-bottom: 50px;
+}

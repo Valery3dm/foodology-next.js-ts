@@ -1,0 +1,11 @@
+.rootWrapper {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 100px;
+    margin-left: 135px;
+}
+
+.footerMenuWrapper {
+    display: flex;
+    flex-direction: row;
+}

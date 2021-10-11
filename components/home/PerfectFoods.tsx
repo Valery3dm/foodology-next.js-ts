@@ -1,6 +1,6 @@
 
 
-import styles from '../styles/PerfectFoods.module.css'
+import styles from '../../styles/PerfectFoods.module.css'
 
 const PerfectFoods = () => {
     return (

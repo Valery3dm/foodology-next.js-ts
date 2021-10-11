@@ -1,0 +1,146 @@
+.paymentWrapper {
+    display: flex;
+    flex-direction: row;
+    margin-top: 100px;
+    margin-left: 135px;
+    justify-content: space-between;
+}
+
+.itemsBlock {
+    width: 100%;
+    margin-right: 114px;
+}
+
+.header {
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 50px;
+    line-height: 120%;
+    text-align: center;
+    letter-spacing: 0.5px;
+    color: #333333;
+}
+
+.titleItems {
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 32px;
+    text-align: center;
+    letter-spacing: 5px;
+    color: #FE724C;
+    margin-bottom: 50px;
+    margin-top: 15px;
+}
+
+.informationBlock {
+    width: 100%;
+    margin-left: 76px;
+}
+
+.titleInformation {
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 23px;
+    line-height: 150%;
+    letter-spacing: 0.5px;
+    color: #333333;
+}
+
+.informationList {
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 32px;
+    letter-spacing: 0.5px;
+    color: rgba(51, 51, 51, 0.7);
+}
+
+.list {
+    list-style-type: none;
+}
+
+.priceInfoLocation {
+    display: flex;
+    justify-content: space-between;
+}
+
+.priceInfo {
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 32px;
+    letter-spacing: 0.5px;
+    color: rgba(51, 51, 51, 0.7);
+}
+
+.priceTotalInfo {
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 32px;
+    letter-spacing: 0.5px;
+    color: #333333;
+}
+
+.card {
+    margin-right: 50px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.cardTitle {
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 26px;
+    text-align: center;
+    letter-spacing: 0.5px;
+    color: #333333;
+    width: 112px;
+}
+
+.cardPrice {
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 32px;
+    letter-spacing: 0.5px;
+    color: rgba(51, 51, 51, 0.7);
+}
+
+.image {
+    width: 150px;
+    height: 150px;
+    border-radius: 25px;
+}
+
+.itemsWrapper {
+    display: flex;
+}
+
+.button {
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 180%;
+    text-align: center;
+    letter-spacing: 0.5px;
+    color: #FFFFFF;
+    background: #FE724C;
+    border-radius: 25px;
+    width: 126px;
+    padding: 15px 24px;
+    margin-top: 30px;
+}

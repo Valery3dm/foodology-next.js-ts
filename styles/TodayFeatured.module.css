@@ -1,0 +1,135 @@
+.rootWrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.firstTitle {
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 50px;
+    line-height: 120%;
+}
+
+.secondTitle {
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 32px;
+    text-align: center;
+    letter-spacing: 0.5px;
+    color: rgba(51, 51, 51, 0.7);
+}
+
+.menusWrapper {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-top: 100px;
+}
+
+.informationWrapper {
+    display: flex;
+    flex-direction: row;
+}
+
+.selectedItemWrapper {
+    display: flex;
+}
+
+.itemDetail {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+}
+
+.rootMenu {
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 30px;
+    line-height: 150%;
+    letter-spacing: 0.5px;
+    color: rgba(51, 51, 51, 0.3);
+}
+
+.selectedItemName {
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 30px;
+    line-height: 150%;
+    text-align: right;
+    letter-spacing: 0.5px;
+    color: #333333;
+}
+.selectedMainMenu {
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 30px;
+    line-height: 150%;
+    text-align: center;
+    letter-spacing: 0.5px;
+    color: #FE724C;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.selectedItemCalories {
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 26px;
+    letter-spacing: 0.5px;
+    color: #FE724C;
+}
+
+.description {
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 32px;
+    text-align: right;
+    letter-spacing: 0.5px;
+    color: rgba(51, 51, 51, 0.7);
+    width: 300px;
+}
+
+.menuItemsImage {
+    width: 69px;
+    height: 68px;
+    border-radius: 15px;
+    margin-right: 10px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.5);
+}
+
+.menuItems {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin: 30px 10px;
+}
+
+.menuItemsText {
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 26px;
+    letter-spacing: 0.5px;
+    color: rgba(51, 51, 51, 0.5);
+}
+
+.menuItemsSelectedText {
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 26px;
+    letter-spacing: 0.5px;
+    color: #333333;
+}
